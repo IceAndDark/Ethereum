@@ -1,2 +1,2 @@
 # Ethereum
-sample
+Smart contract platform
